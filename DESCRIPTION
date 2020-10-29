@@ -1,0 +1,9 @@
+Package: OregonTrail
+Title: The  Oregon Trail Game
+Version: 0.1
+Author: Thomas Lumley
+Description: A port of the famous 'Oregon Trail' game to R, by writing a very limited BASIC interpreter
+Encoding: UTF-8
+License:  MIT + file LICENSEE
+Maintainer: Thomas Lumley <t.lumley@auckland.ac.nz>
+

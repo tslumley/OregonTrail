@@ -19,4 +19,4 @@ REM July-August 1978 issue of Creative Computing.
 50 REM CDC CYBER 70/73-26 BASIC 3-1
 ```
 
-**You will probably not be eaten by a grue.**
+**You are unlikely to be eaten by a grue.**
